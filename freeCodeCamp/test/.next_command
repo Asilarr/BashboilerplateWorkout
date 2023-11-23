@@ -46,3 +46,4 @@ ls --color=auto
 more LICENSE_MIT
 more LICENSE-MIT
 clear
+ls --color=auto
