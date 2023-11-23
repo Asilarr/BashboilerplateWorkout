@@ -144,3 +144,28 @@ ls --color=auto
 cd ..
 ls --color=auto
 find -name images
+mv header.png ./client/src/images
+mv header.png client/src/images
+mv header.png .client/src/images
+mv header.png /client/src/images
+mv header.png ./client/src/images
+mv header.png ./client/assets/images
+find -name header.png
+mv header.png client/assets/images
+ls --color=auto
+mv header.png client/assets/images
+cd images
+ls --color=auto
+cd ..
+cd client
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+find -name header.png
+cd ../../../..
+cd website
+ls --color=auto
+touch header.png
+ls --color=auto
+mv header.png client/assets/images
