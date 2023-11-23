@@ -183,3 +183,5 @@ cd ..
 cd website
 find client/assets/images
 find .
+ls --color=auto
+rmdir images
