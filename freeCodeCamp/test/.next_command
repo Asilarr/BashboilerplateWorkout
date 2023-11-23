@@ -171,3 +171,10 @@ ls --color=auto
 mv header.png client/assets/images
 find -name header.png
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+find -name footer.jpeg
+mv footer.jpeg client/assets/images
+cd images
+ls --color=auto
+cd ..
+mv images/footer.jpeg client/assets/images
