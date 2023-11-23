@@ -224,3 +224,4 @@ touch package.json
 touch server.js
 clear
 touch README.md
+ls --color=auto
