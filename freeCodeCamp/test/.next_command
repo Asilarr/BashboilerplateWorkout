@@ -72,3 +72,4 @@ command help
 command ls
 ls --color=auto command
 ls --color=auto --help
+ls --color=auto -a
