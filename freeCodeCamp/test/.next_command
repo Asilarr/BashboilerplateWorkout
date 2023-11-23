@@ -218,3 +218,5 @@ rmdir ./fonts
 rmdir -r ./fonts
 rmdir ./fonts -r
 rm -r ./fonts
+__vsc_prompt_cmd_original
+ls --color=auto
